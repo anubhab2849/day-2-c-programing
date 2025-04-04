@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+  float p= 3.14 , r= 5 ;
+  float A= ( p*r*r ) ;
+  printf ( " %f " , A ) ;
+  return 0 ;
+}
