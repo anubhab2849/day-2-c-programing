@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main ()
+{
+  float p= 100 , r= 8 , t= 10 ;
+  float SI = ( p*r*t ) / 100;
+  printf ( " %f " , SI ) ;
+  return 0 ;
+}
